@@ -25,4 +25,4 @@ Marketplace niche analysis / ABC analysis / Rank calculation
 
  # Ссылка на проект: 
 
- https://datalens.yandex/27a1mjv30ucso
+https://datalens.yandex/27a1mjv30ucso
